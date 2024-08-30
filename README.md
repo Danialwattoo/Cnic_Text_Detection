@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The CNIC (Computerized National Identity Card) text detection project leverages advanced computer vision techniques to detect and extract text from CNIC images. The primary tools used in this project are YOLO (You Only Look Once) for object detection and PaddleOCR for Optical Character Recognition (OCR). This document provides a theoretical overview of the methodologies and concepts involved in this project.
+The CNIC (Computerized National Identity Card) text detection project leverages advanced computer vision techniques to detect and extract text from CNIC images. The primary tools used in this project are YOLO (You Only Look Once) for object detection and PaddleOCR for Optical Character Recognition (OCR). 
 
 ## Project Overview
 
